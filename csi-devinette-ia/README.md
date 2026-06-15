@@ -118,6 +118,6 @@ Ce projet est sous licence MIT — voir [LICENSE](LICENSE).
 
 ---
 
-## 👤 Auteur
+## 👤 CHEMLOUL Syfax
 
 Projet développé dans le cadre des activités du **Club Scientifique d'Informatique (CSI)** — UMMTO, Tizi-Ouzou.
